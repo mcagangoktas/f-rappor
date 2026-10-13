@@ -108,7 +108,7 @@ src/
 
 experiments/
   experiment_bia.py             Bayesian Inference Attack on lowest- vs highest-PIS cohort
-  experiment_mga.py             Manipulation-Guided Attack: utility loss from fake reports
+  experiment_mga.py             Maximal Gain Attack: utility loss from fake reports
   experiment_no_attack.py       Estimation accuracy, standard vs Fair seeds
   vulnerability_test.py         Per-value attack success under one seed set
   plot_results.py               Figures in results/

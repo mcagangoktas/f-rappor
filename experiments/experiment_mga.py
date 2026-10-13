@@ -1,10 +1,10 @@
 """
 experiment_mga.py
 ==================
-Manipulation-Guided Attack (MGA): fake users (ATTACK_FRAC of the population)
-join one cohort and send crafted reports with every bit of NUM_TARGETS target
-values set to 1 (other bits are ordinary noise, 1 with probability p). The
-damage is the Utility Loss
+Maximal Gain Attack (MGA, Cao et al. 2021): fake users (ATTACK_FRAC of the
+population) join one cohort and send crafted reports with every bit of
+NUM_TARGETS target values set to 1 (other bits are ordinary noise, 1 with
+probability p). The damage is the Utility Loss
 
     ULoss = sum_v |f_attacked(v) - f_honest(v)| / |D|
 
