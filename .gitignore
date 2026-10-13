@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+
+# Real datasets are not redistributed, see datasets/README.md
+datasets/adult.csv
+datasets/BMS.csv
+datasets/kosarak.csv
