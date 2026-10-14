@@ -155,7 +155,7 @@ for studying the fairness question above.
 ## Acknowledgements
 
 This project was carried out at Koç University under the supervision of
-Emre Gürsoy. Thanks to Berkay Kemal Balioglu and Alireza Khodaie for
+Asst. Prof. Emre Gürsoy. Thanks to Berkay Kemal Balioglu and Alireza Khodaie for
 tutoring during the project. Code cleanup and experiment refactoring were
 assisted by AI tools.
 
